@@ -18,7 +18,7 @@ li > ul {
 }
 
 .masthead {
-	background-color: #7f1139;
+	background-color: #262d69;
 }
 
 .words {
@@ -90,7 +90,7 @@ li > ul {
 	padding: .5rem 1rem;
 	border-radius: 5px;
 	border-color: transparent;
-	background-color: #7f1139;
+	background-color: #262d69;
 	color: white;
 	font-weight: 600;
 	font-size: 1.25em;
@@ -105,7 +105,7 @@ li > ul {
 	padding: .5rem 1rem;
 	border-radius: 5px;
 	border-color: transparent;
-	background-color: #7f1139;
+	background-color: #262d69;
 	color: white;
 	font-weight: 600;
 	font-size: 1.25em;
@@ -121,7 +121,7 @@ li > ul {
 	border-radius: 5px;
 	border-color: transparent;
 	background-color: none;
-	color: #7f1139;
+	color: #262d69;
 	font-weight: 600;
 	font-size: 1.25em;
 	transition: all .2s ease-in-out;
@@ -136,7 +136,7 @@ li > ul {
 	padding: .5rem 1rem;
 	border-radius: 5px;
 	border-color: transparent;
-	background-color: #7f1139;
+	background-color: #262d69;
 	color: white;
 	font-weight: 600;
 	font-size: 1.25em;
@@ -147,17 +147,17 @@ li > ul {
 
 .action-long:hover {
 	transform: scale(1.0625);
-	box-shadow: 0 1px 2px rgba(0,0,0,0.0625), 0 8px 12px rgba(0,0,0,0.125);	
+	box-shadow: 0 1px 2px rgba(0,0,0,0.0625), 0 8px 12px rgba(0,0,0,0.125);
 }
 
 .action-long-outline:hover {
 	transform: scale(1.0625);
-	box-shadow: 0 1px 2px rgba(0,0,0,0.0625), 0 8px 12px rgba(0,0,0,0.125);	
+	box-shadow: 0 1px 2px rgba(0,0,0,0.0625), 0 8px 12px rgba(0,0,0,0.125);
 }
 
 .action-plan:hover {
 	transform: scale(1.0625);
-	box-shadow: 0 1px 2px rgba(0,0,0,0.0625), 0 8px 12px rgba(0,0,0,0.125);	
+	box-shadow: 0 1px 2px rgba(0,0,0,0.0625), 0 8px 12px rgba(0,0,0,0.125);
 }
 
 .action:hover {
@@ -212,9 +212,9 @@ li > ul {
 }
 
 .footer a {
-	color: #7f1139;
+	color: #262d69;
 }
 
 .footer a:visited {
-	color: #7f1139;
+	color: #262d69;
 }
